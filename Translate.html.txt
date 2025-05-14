@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luggage Translate - Text to Audio Converter</title>
+    <!-- AdSense Script -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_PUBLISHER_ID"
+        crossorigin="anonymous"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+
+
+        body {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white;
+            min-height: 100vh;
+        }
+
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+
+        /* Ad Containers */
+        .ad-banner {
+            margin: 20px 0;
+            text-align: center;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 8px;
+        }
+
+
+        .ad-box {
+            width: 100%;
+            height: auto;
+            margin: 10px auto;
+        }
+
+
+        header {
+            text-align: center;
+            padding: 40px 0;
+        }
+
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+
+        .converter-section {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+            margin: 20px 0;
+        }
+
+
+        textarea {
+            width: 100%;
+            height: 200px;
+            margin: 20px 0;
+            padding: 15px;
+            border: none;
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.9);
+            font-size: 16px;
+        }
+
+
+        .controls {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+
+        select, button {
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+
+        button {
+            background: #4CAF50;
+            color: white;
+        }
+
+
+        button:hover {
+            background: #45a049;
+        }
+
+
+        select {
+            background: white;
+            flex-grow: 1;
+        }
+
+
+        /* Cookie Consent Banner */
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #333;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            z-index: 1000;
+        }
+
+
+        @media (max-width: 600px) {
+            .controls {
+                flex-direction: column;
+            }
+            .ad-box {
+                width: 300px;
+                height: 250px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Cookie Consent -->
+    <div id="cookie-consent" class="cookie-banner">
+        <p>We use cookies to personalize content and ads. <a href="/privacy-policy.html">Learn more</a></p>
+        <button onclick="acceptCookies()">Accept</button>
+    </div>
+
+
+    <div class="container">
+        <!-- Header Ad -->
+        <div class="ad-banner">
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-YOUR_PUBLISHER_ID"
+                data-ad-slot="1234567890"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+
+
+        <header>
+            <h1>Luggage Translate</h1>
+            <p>Convert Travel Documents & Luggage Tags to Audio</p>
+        </header>
+
+
+        <!-- Content Ad -->
+        <div class="ad-banner">
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-YOUR_PUBLISHER_ID"
+                data-ad-slot="0987654321"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+
+
+        <main class="converter-section">
+            <textarea id="inputText" placeholder="Enter luggage information, travel documents, or destination details..."></textarea>
+            
+            <div class="controls">
+                <select id="languageSelect">
+                    <option value="en-US">English (US)</option>
+                    <option value="es-ES">Spanish</option>
+                    <option value="fr-FR">French</option>
+                    <option value="de-DE">German</option>
+                    <option value="ja-JP">Japanese</option>
+                </select>
+
+
+                <select id="voiceType">
+                    <option value="female">Female Voice</option>
+                    <option value="male">Male Voice</option>
+                </select>
+
+
+                <button onclick="convertToSpeech()">Convert to Audio</button>
+                <button onclick="playAudio()">Play Audio</button>
+            </div>
+
+
+            <!-- In-content Ad -->
+            <div class="ad-banner">
+                <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-client="ca-pub-YOUR_PUBLISHER_ID"
+                    data-ad-slot="1122334455"
+                    data-ad-format="auto"
+                    data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>
+
+
+            <div class="download-section">
+                <button onclick="downloadAudio()">Download Audio File</button>
+            </div>
+        </main>
+
+
+        <!-- Footer Ad -->
+        <div class="ad-banner">
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-YOUR_PUBLISHER_ID"
+                data-ad-slot="5566778899"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+
+
+    <script>
+        // Text-to-Speech Functions
+        let synthesis;
+        let utterance;
+        let voices = [];
+
+
+        function populateVoices() {
+            voices = speechSynthesis.getVoices();
+            const languageSelect = document.getElementById('languageSelect');
+            const voiceTypeSelect = document.getElementById('voiceType');
+            
+            const selectedLanguage = languageSelect.value;
+            const selectedGender = voiceTypeSelect.value === 'female' ? 1 : 0;
+            
+            const availableVoices = voices.filter(voice => 
+                voice.lang === selectedLanguage &&
+                voice.voiceURI.toLowerCase().includes(selectedGender === 1 ? 'female' : 'male')
+            );
+
+
+            return availableVoices.length > 0 ? availableVoices[0] : null;
+        }
+
+
+        function convertToSpeech() {
+            const text = document.getElementById('inputText').value;
+            if (!text) return;
+
+
+            synthesis = window.speechSynthesis;
+            const selectedVoice = populateVoices();
+
+
+            if (!selectedVoice) {
+                alert('No available voice for selected options');
+                return;
+            }
+
+
+            utterance = new SpeechSynthesisUtterance(text);
+            utterance.voice = selectedVoice;
+            utterance.rate = 0.9;
+            utterance.pitch = 1;
+        }
+
+
+        function playAudio() {
+            if (!utterance) {
+                alert('Please convert text to audio first');
+                return;
+            }
+            synthesis.speak(utterance);
+        }
+
+
+        function downloadAudio() {
+            alert('Download feature requires server-side processing');
+        }
+
+
+        // Cookie Consent Functions
+        function acceptCookies() {
+            localStorage.setItem('cookieConsent', 'true');
+            document.getElementById('cookie-consent').style.display = 'none';
+        }
+        
+        if(localStorage.getItem('cookieConsent')) {
+            document.getElementById('cookie-consent').style.display = 'none';
+        }
+
+
+        // Initialize voices
+        speechSynthesis.onvoiceschanged = function() {
+            populateVoices();
+        };
+    </script>
+</body>
+</html>
