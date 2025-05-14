@@ -1,0 +1,1837 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google AdSense Auto Ads -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8957241829205373"
+crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+   <!-- Add this meta tag for better ad targeting -->
+<meta name="google-adsense-account" content="ca-pub-8957241829205373">">
+    <title>ProfitHub - Earn Smart</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+
+        body {
+            background-color: #f5f5f5;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #2c3e50, #3498db);
+            color: white;
+            padding: 1rem;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .nav {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 1rem;
+        }
+
+        .nav a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+
+        .nav a:hover {
+            background: rgba(255,255,255,0.1);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+            display: grid;
+            grid-template-columns: 3fr 1fr;
+            gap: 2rem;
+        }
+
+        .main-content {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .sidebar {
+            background: white;
+            padding: 1rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .ad-unit {
+            margin: 1rem 0;
+            padding: 1rem;
+            background: #f8f9fa;
+            border: 1px dashed #ddd;
+            text-align: center;
+        }
+
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+
+        .product-card {
+            border: 1px solid #eee;
+            padding: 1rem;
+            border-radius: 8px;
+            transition: transform 0.3s;
+        }
+
+        .product-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+// Track ad performance
+document.addEventListener('adsbygoogle:loaded', () => {
+  console.log('AdSense loaded successfully');
+});
+
+window.addEventListener('adsbygoogle:error', (error) => {
+  console.error('AdSense error:', error);
+});
+</head>
+<body>
+    <header class="header">
+        <h1>ProfitHub</h1>
+        <p>Smart Ways to Earn Online</p>
+        <nav class="nav">
+            <a href="#home">Home</a>
+            <a href="#products">Products</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main class="<!-- In-article ad -->
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8957241829205373"
+     data-ad-slot="1234567890"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>">
+            <!-- Affiliate Content Section -->
+            <section class="affiliate-section">
+                <h2>Recommended Products</h2>
+                <div class="product-grid">
+                    <div class="product-card">
+                        <h3>Web Hosting</h3>
+                        <p>Best hosting solution for your website</p>
+                        <a href="#" class="affiliate-link" data-product="hosting">Learn More</a>
+                    </div>
+                    <!-- Add more product cards -->
+                </div><!-- Cookie consent banner -->
+<div id="cookie-consent" style="position:fixed;bottom:0;background:#000;color:#fff;padding:20px;width:100%">
+  We use cookies to personalize ads. 
+  <button onclick="acceptCookies()">Accept</button>
+  <button onclick="declineCookies()">Decline</button>
+</div>
+
+<script>
+function acceptCookies() {
+  localStorage.setItem('adConsent', 'true');
+  document.getElementById('cookie-consent').style.display = 'none';
+  // Reload ads with consent
+  (adsbygoogle = window.adsbygoogle || []).push({});
+}
+</script>
+            </section>
+
+            <!-- Ad Unit -->
+            <div class="ad-unit">
+                <!-- // Refresh ads every 30 seconds (use cautiously)
+setInterval(() => {
+  (adsbygoogle = window.adsbygoogle || []).push({});
+}, 30000);-->
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXX"
+                crossorigin="anonymous"></script>
+            </div>
+        </main>
+
+        <aside class="sidebar">
+            <div class="ad-unit">
+                <!-- Vertical ad unit -->
+                <img src="ad-placeholder-300x600.jpg" alt="advertisement" style="max-width:100%">
+            </div>
+        </aside>
+    </div>
+
+    <footer class="<!-- Sticky bottom ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:50px"
+     data-ad-client="ca-pub-8957241829205373"
+     data-ad-slot="1234567890"></ins>">
+        <div class="ad-unit">
+            <!-- Footer ad unit -->
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXX"
+            crossorigin="anonymous"></script>
+        </div>
+        <p>&copy; 2023 ProfitHub. All rights reserved.</p>
+    </footer>
+
+    <script>
+        // Track affiliate link clicks
+        document.querySelectorAll('.affiliate-link').forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                const product = this.dataset.product;
+                // Track conversion here
+                window.open(`https://affiliate-link.com/${product}`, '_blank');
+            });
+        });
+
+        // Ad rotation script
+        let adCounter = 0;
+        const adUnits = document.querySelectorAll('.ad-unit');
+        const ads = [
+            '<img src="ad1.jpg" alt="Ad 1">',
+            '<img src="ad2.jpg" alt="Ad 2">',
+            '<iframe src="ad3.html"></iframe>'
+        ];
+
+        function rotateAds() {
+            adUnits.forEach(unit => {
+                unit.innerHTML = ads[adCounter % ads.length];
+            });
+            adCounter++;
+/* Add these CSS rules to prevent layout shifts */
+.ad-container {
+  min-height: 100px;
+  margin: 20px 0;
+  background: #f8f9fa;
+}
+        }
+        setInterval(rotateAds, 10000);
+
+        // Smooth scroll
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                ca-app-pub-8957241829205373/2084599637ca-app-pub-8957241829205373/2084599637ca-app-pub-8957241829205373/2934646874ca-app-pub-8957241829205373/4020497835});
+            });
+        });
+    </script>
+</body>
+</html>ca-app-pub-8957241829205373~4113972962
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Block Blast Puzzle - Play & Win</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+            overflow-x: hidden;
+        }
+        
+        .container {
+            max-width: 1200px;
+        }
+        
+        .tab-active {
+            border-bottom: 3px solid #4c1d95;
+            color: #4c1d95;
+            font-weight: 600;
+        }
+        
+        .game-cell {
+            width: 40px;
+            height: 40px;
+            border: 1px solid #e5e7eb;
+            transition: all 0.2s;
+        }
+        
+        .block {
+            border-radius: 4px;
+            transition: all 0.2s;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .piece-container {
+            min-height: 120px;
+        }
+        
+        .piece-block {
+            width: 35px;
+            height: 35px;
+            margin: 1px;
+            border-radius: 3px;
+        }
+        
+        .wheel-container {
+            position: relative;
+            width: 300px;
+            height: 300px;
+            margin: 0 auto;
+        }
+        
+        .wheel {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            position: relative;
+            overflow: hidden;
+            border: 8px solid #4c1d95;
+            box-shadow: 0 0 20px rgba(0,0,0,0.2);
+            transition: transform 5s cubic-bezier(0.17, 0.67, 0.12, 0.99);
+        }
+        
+        .wheel-slice {
+            position: absolute;
+            width: 50%;
+            height: 50%;
+            transform-origin: bottom right;
+            left: 0;
+            top: 0;
+            text-align: center;
+            display: flex;
+            align-items: flex-start;
+            justify-content: center;
+            padding-top: 25px;
+            color: white;
+            font-weight: bold;
+            font-size: 14px;
+            box-sizing: border-box;
+            overflow: hidden;
+        }
+        
+        .wheel-pointer {
+            position: absolute;
+            top: -30px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 50px;
+            height: 50px;
+            z-index: 10;
+        }
+        
+        .pointer {
+            width: 0;
+            height: 0;
+            border-left: 15px solid transparent;
+            border-right: 15px solid transparent;
+            border-top: 30px solid #4c1d95;
+        }
+        
+        /* Form styles */
+        .input-field {
+            border: 1px solid #ddd;
+            padding: 12px;
+            border-radius: 8px;
+            background: white;
+            transition: all 0.3s;
+        }
+        
+        .input-field:focus {
+            border-color: #4c1d95;
+            box-shadow: 0 0 0 2px rgba(76, 29, 149, 0.2);
+        }
+        
+        .btn-primary {
+            background-color: #4c1d95;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+        
+        .btn-primary:hover {
+            background-color: #6d28d9;
+            transform: translateY(-2px);
+        }
+        
+        .btn-primary:active {
+            transform: translateY(0);
+        }
+        
+        /* Animation classes */
+        .pop-in {
+            animation: popIn 0.5s forwards;
+        }
+        
+        @keyframes popIn {
+            0% {
+                opacity: 0;
+                transform: scale(0.8);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+        
+        .fade-in {
+            animation: fadeIn 0.5s forwards;
+        }
+        
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+        
+        .coin-animation {
+            animation: coinAnim 1s forwards;
+        }
+        
+        @keyframes coinAnim {
+            0% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.5);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+        
+        /* Custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: #888;
+            border-radius: 4px;
+        }
+        
+        ::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
+        
+        /* Color classes for blocks */
+        .color-1 { background-color: #EF4444; }
+        .color-2 { background-color: #F59E0B; }
+        .color-3 { background-color: #10B981; }
+        .color-4 { background-color: #3B82F6; }
+        .color-5 { background-color: #8B5CF6; }
+        .color-6 { background-color: #EC4899; }
+        .color-7 { background-color: #6366F1; }
+    </style>
+</head>
+<body>
+    <div class="container mx-auto px-4 py-6">
+        <!-- Header -->
+        <header class="flex justify-between items-center mb-6">
+            <div class="flex items-center">
+                <div class="bg-purple-700 text-white p-2 rounded-lg mr-3">
+                    <i class="fas fa-puzzle-piece text-2xl"></i>
+                </div>
+                <h1 class="text-2xl font-bold text-gray-800">Block Blast Puzzle</h1>
+            </div>
+            <div class="flex items-center bg-yellow-100 px-4 py-2 rounded-lg">
+                <i class="fas fa-coins text-yellow-500 mr-2"></i>
+                <span class="text-lg font-bold" id="total-coins">0</span>
+            </div>
+        </header>
+        
+        <!-- Navigation Tabs -->
+        <div class="flex border-b mb-6">
+            <button class="tab tab-active px-6 py-3 focus:outline-none" data-tab="game">
+                <i class="fas fa-gamepad mr-2"></i> Game
+            </button>
+            <button class="tab px-6 py-3 focus:outline-none" data-tab="profile">
+                <i class="fas fa-user mr-2"></i> Profile
+            </button>
+            <button class="tab px-6 py-3 focus:outline-none" data-tab="withdraw">
+                <i class="fas fa-money-bill-wave mr-2"></i> Withdraw
+            </button>
+            <button class="tab px-6 py-3 focus:outline-none" data-tab="transactions">
+                <i class="fas fa-history mr-2"></i> Transactions
+            </button>
+        </div>
+        
+        <!-- Tab Content -->
+        <div class="tab-content">
+            <!-- Game Tab -->
+            <div id="game" class="tab-pane active">
+                <div class="lg:flex">
+                    <div class="lg:w-1/2 p-4">
+                        <div class="bg-white rounded-xl p-6 shadow-lg mb-6">
+                            <h2 class="text-xl font-bold mb-4">Block Puzzle</h2>
+                            <p class="mb-4 text-gray-600">Place blocks on the board to complete lines and score points!</p>
+                            
+                            <!-- Game Score -->
+                            <div class="flex justify-between mb-4">
+                                <div class="bg-purple-100 px-4 py-2 rounded-lg">
+                                    <span class="text-purple-800 font-bold">Score: </span>
+                                    <span id="game-score" class="text-purple-800 font-bold">0</span>
+                                </div>
+                                <div class="bg-blue-100 px-4 py-2 rounded-lg">
+                                    <span class="text-blue-800 font-bold">Lines: </span>
+                                    <span id="lines-cleared" class="text-blue-800 font-bold">0</span>
+                                </div>
+                            </div>
+                            
+                            <!-- Game Board -->
+                            <div class="game-board mb-6 bg-gray-50 p-1 rounded-lg">
+                                <div id="board" class="grid grid-cols-8 gap-0">
+                                    <!-- Board cells will be generated by JS -->
+                                </div>
+                            </div>
+                            
+                            <!-- Blocks Selection -->
+                            <div class="piece-container flex justify-center items-center mb-4" id="pieces-container">
+                                <!-- Pieces will be generated by JS -->
+                            </div>
+                            
+                            <div class="text-center">
+                                <button id="new-game-btn" class="btn-primary">
+                                    <i class="fas fa-redo mr-2"></i> New Game
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="lg:w-1/2 p-4">
+                        <div class="bg-white rounded-xl p-6 shadow-lg mb-6">
+                            <h2 class="text-xl font-bold mb-4">Spin & Win</h2>
+                            <p class="mb-4 text-gray-600">Spin the wheel to win coins that you can withdraw later!</p>
+                            
+                            <div class="wheel-container mb-6">
+                                <div class="wheel-pointer">
+                                    <div class="pointer"></div>
+                                </div>
+                                <div id="wheel" class="wheel">
+                                    <!-- Wheel slices will be generated by JS -->
+                                </div>
+                            </div>
+                            
+                            <div class="text-center">
+                                <button id="spin-btn" class="btn-primary">
+                                    <i class="fas fa-sync-alt mr-2"></i> Spin
+                                </button>
+                                <p id="next-spin-time" class="text-sm mt-2 text-gray-500"></p>
+                            </div>
+                        </div>
+                        
+                        <div class="bg-white rounded-xl p-6 shadow-lg">
+                            <h2 class="text-xl font-bold mb-4">Daily Bonus</h2>
+                            <div class="flex items-center justify-between">
+                                <div>
+                                    <p class="text-gray-600">Get a free spin every 24 hours!</p>
+                                    <p id="daily-bonus-status" class="text-sm mt-1 font-medium text-green-600">Available now!</p>
+                                </div>
+                                <button id="claim-bonus-btn" class="btn-primary">
+                                    <i class="fas fa-gift mr-2"></i> Claim
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Profile Tab -->
+            <div id="profile" class="tab-pane hidden">
+                <div class="bg-white rounded-xl p-6 shadow-lg">
+                    <h2 class="text-xl font-bold mb-4">Your Profile</h2>
+                    
+                    <div class="grid md:grid-cols-2 gap-6">
+                        <div>
+                            <div class="flex items-center mb-6">
+                                <div class="bg-purple-100 p-4 rounded-full mr-4">
+                                    <i class="fas fa-user text-2xl text-purple-700"></i>
+                                </div>
+                                <div>
+                                    <input type="text" id="profile-name" placeholder="Your Name" class="input-field w-full">
+                                </div>
+                            </div>
+                            
+                            <div class="mb-6">
+                                <label class="block text-gray-700 font-medium mb-2">Email Address</label>
+                                <input type="email" id="profile-email" placeholder="your@email.com" class="input-field w-full">
+                            </div>
+                            
+                            <div class="mb-6">
+                                <label class="block text-gray-700 font-medium mb-2">Payment Method</label>
+                                <select id="profile-payment" class="input-field w-full">
+                                    <option value="paypal">PayPal</option>
+                                    <option value="bank">Bank Transfer</option>
+                                    <option value="crypto">Cryptocurrency</option>
+                                </select>
+                            </div>
+                            
+                            <div class="mb-6">
+                                <label class="block text-gray-700 font-medium mb-2">Payment Details</label>
+                                <textarea id="profile-payment-details" placeholder="Enter your payment details" class="input-field w-full h-24 resize-none"></textarea>
+                            </div>
+                            
+                            <button id="save-profile-btn" class="btn-primary w-full">
+                                <i class="fas fa-save mr-2"></i> Save Profile
+                            </button>
+                        </div>
+                        
+                        <div>
+                            <div class="bg-gray-50 p-6 rounded-lg mb-6">
+                                <h3 class="text-lg font-bold mb-4">Game Statistics</h3>
+                                
+                                <div class="grid grid-cols-2 gap-4">
+                                    <div class="bg-white p-4 rounded-lg shadow">
+                                        <p class="text-gray-500 text-sm">Games Played</p>
+                                        <p id="stats-games" class="text-2xl font-bold text-purple-700">0</p>
+                                    </div>
+                                    <div class="bg-white p-4 rounded-lg shadow">
+                                        <p class="text-gray-500 text-sm">High Score</p>
+                                        <p id="stats-high-score" class="text-2xl font-bold text-purple-700">0</p>
+                                    </div>
+                                    <div class="bg-white p-4 rounded-lg shadow">
+                                        <p class="text-gray-500 text-sm">Lines Cleared</p>
+                                        <p id="stats-lines" class="text-2xl font-bold text-purple-700">0</p>
+                                    </div>
+                                    <div class="bg-white p-4 rounded-lg shadow">
+                                        <p class="text-gray-500 text-sm">Total Coins</p>
+                                        <p id="stats-coins" class="text-2xl font-bold text-yellow-500">0</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="bg-blue-50 p-6 rounded-lg">
+                                <h3 class="text-lg font-bold mb-4">Achievements</h3>
+                                <ul id="achievements-list" class="space-y-3">
+                                    <li class="bg-white p-3 rounded-lg shadow flex items-center">
+                                        <div class="bg-gray-200 p-2 rounded-full mr-3">
+                                            <i class="fas fa-star text-gray-400"></i>
+                                        </div>
+                                        <div>
+                                            <p class="font-medium">First Game</p>
+                                            <p class="text-xs text-gray-500">Play your first game</p>
+                                        </div>
+                                        <div class="ml-auto">
+                                            <span class="bg-gray-200 text-gray-500 text-xs px-2 py-1 rounded">0/1</span>
+                                        </div>
+                                    </li>
+                                    <li class="bg-white p-3 rounded-lg shadow flex items-center">
+                                        <div class="bg-gray-200 p-2 rounded-full mr-3">
+                                            <i class="fas fa-trophy text-gray-400"></i>
+                                        </div>
+                                        <div>
+                                            <p class="font-medium">Score Master</p>
+                                            <p class="text-xs text-gray-500">Reach a score of 1000</p>
+                                        </div>
+                                        <div class="ml-auto">
+                                            <span class="bg-gray-200 text-gray-500 text-xs px-2 py-1 rounded">0/1000</span>
+                                        </div>
+                                    </li>
+                                    <li class="bg-white p-3 rounded-lg shadow flex items-center">
+                                        <div class="bg-gray-200 p-2 rounded-full mr-3">
+                                            <i class="fas fa-coins text-gray-400"></i>
+                                        </div>
+                                        <div>
+                                            <p class="font-medium">Coin Collector</p>
+                                            <p class="text-xs text-gray-500">Collect 500 coins</p>
+                                        </div>
+                                        <div class="ml-auto">
+                                            <span class="bg-gray-200 text-gray-500 text-xs px-2 py-1 rounded">0/500</span>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Withdraw Tab -->
+            <div id="withdraw" class="tab-pane hidden">
+                <div class="bg-white rounded-xl p-6 shadow-lg">
+                    <h2 class="text-xl font-bold mb-4">Withdraw Earnings</h2>
+                    
+                    <div class="grid md:grid-cols-2 gap-6">
+                        <div>
+                            <div class="bg-yellow-50 p-6 rounded-lg mb-6">
+                                <div class="flex items-center justify-between mb-4">
+                                    <h3 class="text-lg font-medium">Available Balance</h3>
+                                    <div class="flex items-center">
+                                        <i class="fas fa-coins text-yellow-500 mr-2 text-xl"></i>
+                                        <span id="withdraw-balance" class="text-2xl font-bold">0</span>
+                                    </div>
+                                </div>
+                                
+                                <div class="bg-white p-4 rounded-lg mb-4">
+                                    <p class="text-sm text-gray-600">Minimum withdrawal: <span class="font-bold">1000 coins</span></p>
+                                    <div class="w-full bg-gray-200 rounded-full h-2.5 mt-2">
+                                        <div id="withdraw-progress" class="bg-yellow-500 h-2.5 rounded-full" style="width: 0%"></div>
+                                    </div>
+                                    <p id="withdraw-progress-text" class="text-xs text-gray-500 mt-1">0 / 1000 coins</p>
+                                </div>
+                                
+                                <p class="text-sm text-gray-600">
+                                    <i class="fas fa-info-circle mr-1"></i>
+                                    You need at least 1000 coins to request a withdrawal.
+                                </p>
+                            </div>
+                            
+                            <div class="bg-green-50 p-6 rounded-lg">
+                                <h3 class="text-lg font-medium mb-4">Referral Program</h3>
+                                <p class="text-sm text-gray-600 mb-4">
+                                    Earn 10% of your friends' earnings when they join using your code!
+                                </p>
+                                <div class="flex">
+                                    <input type="text" value="BLOCKBLAST123" class="input-field flex-grow rounded-r-none" readonly>
+                                    <button class="bg-green-500 text-white px-4 rounded-l-none rounded-r-lg">
+                                        <i class="fas fa-copy"></i>
+                                    </button>
+                                </div>
+                                <p class="text-xs text-gray-500 mt-2">
+                                    <i class="fas fa-user-friends mr-1"></i>
+                                    <span id="referral-count">0</span> friends have joined using your code
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <form id="withdraw-form" class="bg-gray-50 p-6 rounded-lg">
+                                <h3 class="text-lg font-medium mb-4">Request Withdrawal</h3>
+                                
+                                <div class="mb-4">
+                                    <label class="block text-gray-700 text-sm font-medium mb-2">Amount (Coins)</label>
+                                    <input type="number" id="withdraw-amount" min="1000" value="1000" class="input-field w-full" placeholder="Minimum 1000">
+                                </div>
+                                
+                                <div class="mb-4">
+                                    <label class="block text-gray-700 text-sm font-medium mb-2">Payment Method</label>
+                                    <select id="withdraw-method" class="input-field w-full">
+                                        <option value="paypal">PayPal</option>
+                                        <option value="bank">Bank Transfer</option>
+                                        <option value="crypto">Cryptocurrency</option>
+                                    </select>
+                                </div>
+                                
+                                <div class="mb-4">
+                                    <label class="block text-gray-700 text-sm font-medium mb-2">Payment Details</label>
+                                    <textarea id="withdraw-details" class="input-field w-full h-24 resize-none" placeholder="Enter your payment details (email, account number, etc.)"></textarea>
+                                </div>
+                                
+                                <div class="flex items-start mb-4">
+                                    <input id="withdraw-terms" type="checkbox" class="mt-1">
+                                    <label for="withdraw-terms" class="ml-2 text-sm text-gray-600">
+                                        I confirm that the information provided is correct and I agree to the terms and conditions.
+                                    </label>
+                                </div>
+                                
+                                <button type="submit" id="submit-withdraw-btn" class="btn-primary w-full" disabled>
+                                    <i class="fas fa-paper-plane mr-2"></i> Submit Withdrawal Request
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Transactions Tab -->
+            <div id="transactions" class="tab-pane hidden">
+                <div class="bg-white rounded-xl p-6 shadow-lg">
+                    <h2 class="text-xl font-bold mb-4">Transaction History</h2>
+                    
+                    <div class="mb-6">
+                        <h3 class="text-lg font-medium mb-2">Withdrawals</h3>
+                        <div class="bg-gray-50 rounded-lg overflow-hidden">
+                            <table class="w-full">
+                                <thead>
+                                    <tr class="bg-gray-100">
+                                        <th class="text-left py-3 px-4">Date</th>
+                                        <th class="text-left py-3 px-4">Amount</th>
+                                        <th class="text-left py-3 px-4">Method</th>
+                                        <th class="text-left py-3 px-4">Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="withdrawal-history">
+                                    <!-- Will be populated by JS -->
+                                    <tr>
+                                        <td class="py-4 px-4 text-gray-500" colspan="4">No withdrawals yet</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    
+                    <div>
+                        <h3 class="text-lg font-medium mb-2">Earnings</h3>
+                        <div class="bg-gray-50 rounded-lg overflow-hidden">
+                            <table class="w-full">
+                                <thead>
+                                    <tr class="bg-gray-100">
+                                        <th class="text-left py-3 px-4">Date</th>
+                                        <th class="text-left py-3 px-4">Source</th>
+                                        <th class="text-left py-3 px-4">Amount</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="earnings-history">
+                                    <!-- Will be populated by JS -->
+                                    <tr>
+                                        <td class="py-4 px-4 text-gray-500" colspan="3">No earnings yet</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Modal for notifications -->
+    <div id="notification-modal" class="fixed inset-0 flex items-center justify-center z-50 hidden">
+        <div class="fixed inset-0 bg-black bg-opacity-50"></div>
+        <div class="bg-white rounded-lg p-6 max-w-md w-full relative z-10 pop-in">
+            <div class="flex justify-between items-start mb-4">
+                <h3 id="modal-title" class="text-xl font-bold">Notification</h3>
+                <button id="close-modal" class="text-gray-500 hover:text-gray-700">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div id="modal-content" class="mb-6">
+                <!-- Modal content will be injected here -->
+            </div>
+            <div class="text-right">
+                <button id="modal-action" class="btn-primary">OK</button>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Game state
+        const gameState = {
+            board: Array(8).fill().map(() => Array(8).fill(0)),
+            pieces: [],
+            score: 0,
+            linesCleared: 0,
+            totalCoins: 0,
+            gameActive: true,
+            gamesPlayed: 0,
+            highScore: 0,
+            totalLinesCleared: 0,
+            selectedPieceIndex: -1,
+            lastSpinTime: null,
+            achievements: {
+                firstGame: false,
+                scoreMaster: false,
+                coinCollector: false
+            },
+            profile: {
+                name: "",
+                email: "",
+                paymentMethod: "paypal",
+                paymentDetails: ""
+            },
+            withdrawals: [],
+            earnings: []
+        };
+        
+        // Colors for the blocks (already defined in CSS)
+        const colors = ['color-1', 'color-2', 'color-3', 'color-4', 'color-5', 'color-6', 'color-7'];
+        
+        // Define piece shapes (simple shapes for this example)
+        const pieceShapes = [
+            // Single block
+            { shape: [[1]], color: 0 },
+            
+            // Double blocks
+            { shape: [[1, 1]], color: 1 },
+            { shape: [[1], [1]], color: 1 },
+            
+            // Triple blocks
+            { shape: [[1, 1, 1]], color: 2 },
+            { shape: [[1], [1], [1]], color: 2 },
+            { shape: [[1, 1], [1, 0]], color: 2 },
+            { shape: [[1, 1], [0, 1]], color: 2 },
+            { shape: [[0, 1], [1, 1]], color: 2 },
+            { shape: [[1, 0], [1, 1]], color: 2 },
+            
+            // Tetromino shapes (like Tetris)
+            { shape: [[1, 1], [1, 1]], color: 3 }, // Square
+            { shape: [[1, 1, 1, 1]], color: 4 },   // I piece
+            { shape: [[1, 1, 1], [0, 1, 0]], color: 5 }, // T piece
+            { shape: [[1, 1, 0], [0, 1, 1]], color: 6 }  // Z piece
+        ];
+        
+        // Prize wheel configuration
+        const wheelPrizes = [
+            { amount: 10, color: "#EF4444" },
+            { amount: 20, color: "#F59E0B" },
+            { amount: 5, color: "#10B981" },
+            { amount: 50, color: "#3B82F6" },
+            { amount: 15, color: "#8B5CF6" },
+            { amount: 30, color: "#EC4899" },
+            { amount: 25, color: "#6366F1" },
+            { amount: 100, color: "#047857" }
+        ];
+        
+        // DOM elements
+        const boardElement = document.getElementById('board');
+        const piecesContainer = document.getElementById('pieces-container');
+        const scoreElement = document.getElementById('game-score');
+        const linesClearedElement = document.getElementById('lines-cleared');
+        const totalCoinsElement = document.getElementById('total-coins');
+        const newGameButton = document.getElementById('new-game-btn');
+        const wheelElement = document.getElementById('wheel');
+        const spinButton = document.getElementById('spin-btn');
+        const nextSpinTimeElement = document.getElementById('next-spin-time');
+        const claimBonusButton = document.getElementById('claim-bonus-btn');
+        const dailyBonusStatusElement = document.getElementById('daily-bonus-status');
+        
+        // Tab navigation logic
+        const tabs = document.querySelectorAll('.tab');
+        const tabPanes = document.querySelectorAll('.tab-pane');
+        
+        tabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                const tabName = tab.getAttribute('data-tab');
+                
+                // Update active tab
+                tabs.forEach(t => t.classList.remove('tab-active'));
+                tab.classList.add('tab-active');
+                
+                // Show active tab pane
+                tabPanes.forEach(pane => {
+                    if (pane.id === tabName) {
+                        pane.classList.remove('hidden');
+                    } else {
+                        pane.classList.add('hidden');
+                    }
+                });
+            });
+        });
+        
+        // Modal functions
+        function showNotification(title, content, actionText = "OK", actionCallback = null) {
+            document.getElementById('modal-title').textContent = title;
+            document.getElementById('modal-content').innerHTML = content;
+            document.getElementById('modal-action').textContent = actionText;
+            
+            const modal = document.getElementById('notification-modal');
+            const closeModal = document.getElementById('close-modal');
+            const actionButton = document.getElementById('modal-action');
+            
+            modal.classList.remove('hidden');
+            
+            closeModal.onclick = () => modal.classList.add('hidden');
+            actionButton.onclick = () => {
+                if (actionCallback) actionCallback();
+                modal.classList.add('hidden');
+            };
+        }
+        
+        // Initialize the game
+        function initGame() {
+            loadGameState();
+            createBoard();
+            generatePieces();
+            initWheel();
+            updateSpinButton();
+            updateDailyBonusButton();
+            updateWithdrawSection();
+            updateStatistics();
+            updateTransactionHistory();
+            updateAchievements();
+            
+            // Set up event listeners
+            newGameButton.addEventListener('click', startNewGame);
+            spinButton.addEventListener('click', spinWheel);
+            claimBonusButton.addEventListener('click', claimDailyBonus);
+            
+            document.getElementById('save-profile-btn').addEventListener('click', saveProfile);
+            document.getElementById('withdraw-terms').addEventListener('change', updateWithdrawButton);
+            document.getElementById('withdraw-amount').addEventListener('input', updateWithdrawButton);
+            document.getElementById('withdraw-form').addEventListener('submit', submitWithdrawal);
+        }
+        
+        // Create the game board
+        function createBoard() {
+            boardElement.innerHTML = '';
+            
+            for (let i = 0; i < 8; i++) {
+                for (let j = 0; j < 8; j++) {
+                    const cell = document.createElement('div');
+                    cell.className = 'game-cell bg-white';
+                    cell.dataset.row = i;
+                    cell.dataset.col = j;
+                    
+                    // Add drop event listener for each cell
+                    cell.addEventListener('dragover', allowDrop);
+                    cell.addEventListener('drop', dropPiece);
+                    
+                    // If there's already a block in this cell from saved state
+                    if (gameState.board[i][j] > 0) {
+                        const block = document.createElement('div');
+                        block.className = `block ${colors[gameState.board[i][j] - 1]} w-full h-full`;
+                        cell.appendChild(block);
+                    }
+                    
+                    boardElement.appendChild(cell);
+                }
+            }
+        }
+        
+        // Generate new pieces
+        function generatePieces() {
+            piecesContainer.innerHTML = '';
+            gameState.pieces = [];
+            gameState.selectedPieceIndex = -1;
+            
+            // Generate 3 random pieces
+            for (let i = 0; i < 3; i++) {
+                const randomIndex = Math.floor(Math.random() * pieceShapes.length);
+                const pieceData = pieceShapes[randomIndex];
+                gameState.pieces.push({
+                    shape: pieceData.shape,
+                    colorIndex: pieceData.color
+                });
+                
+                const pieceElement = createPieceElement(pieceData.shape, colors[pieceData.color]);
+                pieceElement.dataset.index = i;
+                pieceElement.draggable = true;
+                pieceElement.classList.add('cursor-pointer', 'hover:shadow-lg');
+                pieceElement.addEventListener('dragstart', dragStart);
+                pieceElement.addEventListener('click', selectPiece);
+                
+                piecesContainer.appendChild(pieceElement);
+            }
+        }
+        
+        // Create visual element for a piece
+        function createPieceElement(shape, colorClass) {
+            const pieceContainer = document.createElement('div');
+            pieceContainer.className = 'flex flex-col items-center m-2';
+            
+            const maxRows = shape.length;
+            const maxCols = Math.max(...shape.map(row => row.length));
+            
+            for (let i = 0; i < maxRows; i++) {
+                const rowDiv = document.createElement('div');
+                rowDiv.className = 'flex';
+                
+                for (let j = 0; j < (shape[i] ? shape[i].length : 0); j++) {
+                    const blockDiv = document.createElement('div');
+                    blockDiv.className = `piece-block ${shape[i][j] ? colorClass : 'invisible'}`;
+                    rowDiv.appendChild(blockDiv);
+                }
+                
+                pieceContainer.appendChild(rowDiv);
+            }
+            
+            return pieceContainer;
+        }
+        
+        // Select piece by clicking
+        function selectPiece(event) {
+            const index = parseInt(event.currentTarget.dataset.index);
+            
+            // Deselect if already selected
+            if (gameState.selectedPieceIndex === index) {
+                gameState.selectedPieceIndex = -1;
+                document.querySelectorAll('#pieces-container > div').forEach(piece => {
+                    piece.classList.remove('ring-4', 'ring-purple-500');
+                });
+                return;
+            }
+            
+            // Select new piece
+            gameState.selectedPieceIndex = index;
+            
+            document.querySelectorAll('#pieces-container > div').forEach(piece => {
+                const pieceIndex = parseInt(piece.dataset.index);
+                if (pieceIndex === index) {
+                    piece.classList.add('ring-4', 'ring-purple-500');
+                } else {
+                    piece.classList.remove('ring-4', 'ring-purple-500');
+                }
+            });
+        }
+        
+        // Drag and drop functionality
+        function dragStart(event) {
+            event.dataTransfer.setData('text/plain', event.target.dataset.index);
+            gameState.selectedPieceIndex = parseInt(event.target.dataset.index);
+        }
+        
+        function allowDrop(event) {
+            event.preventDefault();
+            
+            if (gameState.selectedPieceIndex === -1) return;
+            
+            // Highlight valid drop positions
+            const row = parseInt(event.target.dataset.row);
+            const col = parseInt(event.target.dataset.col);
+            
+            if (row !== undefined && col !== undefined) {
+                const piece = gameState.pieces[gameState.selectedPieceIndex];
+                const valid = canPlacePiece(piece.shape, row, col);
+                
+                if (valid) {
+                    event.target.classList.add('bg-green-100');
+                } else {
+                    event.target.classList.add('bg-red-100');
+                }
+            }
+        }
+        
+        // Drop a piece onto the board
+        function dropPiece(event) {
+            event.preventDefault();
+            
+            // Remove highlighting
+            document.querySelectorAll('.game-cell').forEach(cell => {
+                cell.classList.remove('bg-green-100', 'bg-red-100');
+            });
+            
+            if (!gameState.gameActive || gameState.selectedPieceIndex === -1) return;
+            
+            const row = parseInt(event.target.dataset.row);
+            const col = parseInt(event.target.dataset.col);
+            
+            if (isNaN(row) || isNaN(col)) return;
+            
+            const piece = gameState.pieces[gameState.selectedPieceIndex];
+            
+            if (canPlacePiece(piece.shape, row, col)) {
+                placePiece(piece, row, col);
+                
+                // Remove the placed piece from available pieces
+                const pieceElement = document.querySelector(`#pieces-container > div[data-index="${gameState.selectedPieceIndex}"]`);
+                if (pieceElement) {
+                    pieceElement.classList.add('opacity-0');
+                    setTimeout(() => {
+                        pieceElement.remove();
+                    }, 300);
+                }
+                
+                gameState.pieces[gameState.selectedPieceIndex] = null;
+                gameState.selectedPieceIndex = -1;
+                
+                // Check if all pieces are placed
+                if (gameState.pieces.every(piece => piece === null)) {
+                    generatePieces();
+                }
+                
+                // Check if game is over (no valid moves)
+                checkGameOver();
+                
+                // Save game state
+                saveGameState();
+            }
+        }
+        
+        // Check if a piece can be placed at given position
+        function canPlacePiece(shape, startRow, startCol) {
+            for (let i = 0; i < shape.length; i++) {
+                for (let j = 0; j < shape[i].length; j++) {
+                    if (shape[i][j] === 1) {
+                        const newRow = startRow + i;
+                        const newCol = startCol + j;
+                        
+                        // Check if out of bounds
+                        if (newRow >= 8 || newCol >= 8) {
+                            return false;
+                        }
+                        
+                        // Check if cell is already occupied
+                        if (gameState.board[newRow][newCol] !== 0) {
+                            return false;
+                        }
+                    }
+                }
+            }
+            return true;
+        }
+        
+        // Place a piece on the board
+        function placePiece(piece, startRow, startCol) {
+            const { shape, colorIndex } = piece;
+            
+            // Place the piece on the board
+            for (let i = 0; i < shape.length; i++) {
+                for (let j = 0; j < shape[i].length; j++) {
+                    if (shape[i][j] === 1) {
+                        const newRow = startRow + i;
+                        const newCol = startCol + j;
+                        
+                        // Update the board data
+                        gameState.board[newRow][newCol] = colorIndex + 1;
+                        
+                        // Update the UI
+                        const cell = document.querySelector(`.game-cell[data-row="${newRow}"][data-col="${newCol}"]`);
+                        const block = document.createElement('div');
+                        block.className = `block ${colors[colorIndex]} w-full h-full fade-in`;
+                        cell.appendChild(block);
+                    }
+                }
+            }
+            
+            // Check for completed lines
+            checkLines();
+        }
+        
+        // Check for completed lines (rows and columns)
+        function checkLines() {
+            const completedRows = [];
+            const completedCols = [];
+            
+            // Check rows
+            for (let i = 0; i < 8; i++) {
+                if (gameState.board[i].every(cell => cell !== 0)) {
+                    completedRows.push(i);
+                }
+            }
+            
+            // Check columns
+            for (let j = 0; j < 8; j++) {
+                let complete = true;
+                for (let i = 0; i < 8; i++) {
+                    if (gameState.board[i][j] === 0) {
+                        complete = false;
+                        break;
+                    }
+                }
+                if (complete) {
+                    completedCols.push(j);
+                }
+            }
+            
+            // Animation for completed lines
+            const promises = [];
+            
+            completedRows.forEach(row => {
+                for (let j = 0; j < 8; j++) {
+                    const cell = document.querySelector(`.game-cell[data-row="${row}"][data-col="${j}"]`);
+                    const block = cell.querySelector('.block');
+                    if (block) {
+                        block.classList.add('bg-purple-500');
+                        promises.push(new Promise(resolve => {
+                            setTimeout(() => {
+                                block.remove();
+                                resolve();
+                            }, 300);
+                        }));
+                    }
+                }
+            });
+            
+            completedCols.forEach(col => {
+                for (let i = 0; i < 8; i++) {
+                    const cell = document.querySelector(`.game-cell[data-row="${i}"][data-col="${col}"]`);
+                    const block = cell.querySelector('.block');
+                    if (block) {
+                        block.classList.add('bg-purple-500');
+                        promises.push(new Promise(resolve => {
+                            setTimeout(() => {
+                                block.remove();
+                                resolve();
+                            }, 300);
+                        }));
+                    }
+                }
+            });
+            
+            // Update the board data and score
+            if (completedRows.length > 0 || completedCols.length > 0) {
+                Promise.all(promises).then(() => {
+                    // Clear rows
+                    completedRows.forEach(row => {
+                        for (let j = 0; j < 8; j++) {
+                            gameState.board[row][j] = 0;
+                        }
+                    });
+                    
+                    // Clear columns
+                    completedCols.forEach(col => {
+                        for (let i = 0; i < 8; i++) {
+                            gameState.board[i][col] = 0;
+                        }
+                    });
+                    
+                    // Update score and lines cleared
+                    const linesCleared = completedRows.length + completedCols.length;
+                    const pointsScored = linesCleared * 10;
+                    
+                    gameState.score += pointsScored;
+                    gameState.linesCleared += linesCleared;
+                    gameState.totalLinesCleared += linesCleared;
+                    
+                    // Update UI
+                    scoreElement.textContent = gameState.score;
+                    linesClearedElement.textContent = gameState.linesCleared;
+                    
+                    // Add coins based on lines cleared
+                    const coinsEarned = linesCleared * 5;
+                    addCoins(coinsEarned, 'Game Clearing Lines');
+                    
+                    // Update high score if needed
+                    if (gameState.score > gameState.highScore) {
+                        gameState.highScore = gameState.score;
+                    }
+                    
+                    // Check achievements
+                    checkAchievements();
+                    
+                    // Save game state
+                    saveGameState();
+                });
+            }
+        }
+        
+        // Check if game is over (no valid moves available)
+        function checkGameOver() {
+            let canPlaceAny = false;
+            
+            // Check if any available piece can be placed anywhere on the board
+            for (let p = 0; p < gameState.pieces.length; p++) {
+                const piece = gameState.pieces[p];
+                if (piece === null) continue;
+                
+                for (let i = 0; i < 8; i++) {
+                    for (let j = 0; j < 8; j++) {
+                        if (canPlacePiece(piece.shape, i, j)) {
+                            canPlaceAny = true;
+                            break;
+                        }
+                    }
+                    if (canPlaceAny) break;
+                }
+                if (canPlaceAny) break;
+            }
+            
+            if (!canPlaceAny) {
+                gameState.gameActive = false;
+                showNotification(
+                    "Game Over",
+                    `<p>You can't place any more pieces!</p>
+                    <p class="mt-2">Final Score: <span class="font-bold">${gameState.score}</span></p>
+                    <p>Lines Cleared: <span class="font-bold">${gameState.linesCleared}</span></p>`,
+                    "Play Again",
+                    startNewGame
+                );
+            }
+        }
+        
+        // Start a new game
+        function startNewGame() {
+            gameState.board = Array(8).fill().map(() => Array(8).fill(0));
+            gameState.score = 0;
+            gameState.linesCleared = 0;
+            gameState.gameActive = true;
+            gameState.gamesPlayed++;
+            
+            createBoard();
+            generatePieces();
+            
+            // Update UI
+            scoreElement.textContent = gameState.score;
+            linesClearedElement.textContent = gameState.linesCleared;
+            
+            // Unlock first game achievement if not already unlocked
+            if (!gameState.achievements.firstGame) {
+                gameState.achievements.firstGame = true;
+                updateAchievements();
+                showNotification(
+                    "Achievement Unlocked!",
+                    '<p>First Game</p><p class="text-sm text-gray-500 mt-1">You played your first game!</p>'
+                );
+            }
+            
+            saveGameState();
+        }
+        
+        // Initialize the prize wheel
+        function initWheel() {
+            wheelElement.innerHTML = '';
+            
+            const sliceAngle = 360 / wheelPrizes.length;
+            
+            wheelPrizes.forEach((prize, index) => {
+                const slice = document.createElement('div');
+                slice.className = 'wheel-slice';
+                slice.style.transform = `rotate(${index * sliceAngle}deg)`;
+                slice.style.backgroundColor = prize.color;
+                
+                const text = document.createElement('div');
+                text.className = 'font-bold text-white text-shadow';
+                text.style.transform = `rotate(${sliceAngle / 2}deg)`;
+                text.textContent = `${prize.amount}`;
+                
+                const coinIcon = document.createElement('i');
+                coinIcon.className = 'fas fa-coins mr-1';
+                
+                text.prepend(coinIcon);
+                slice.appendChild(text);
+                wheelElement.appendChild(slice);
+            });
+        }
+        
+        // Spin the prize wheel
+        function spinWheel() {
+            if (!canSpin()) return;
+            
+            const now = new Date();
+            gameState.lastSpinTime = now.getTime();
+            saveGameState();
+            
+            spinButton.disabled = true;
+            spinButton.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i> Spinning...';
+            
+            // Random number of rotations (between 5 and 10 full rotations)
+            const rotations = 5 + Math.random() * 5;
+            
+            // Random prize index
+            const prizeIndex = Math.floor(Math.random() * wheelPrizes.length);
+            
+            // Calculate rotation angle
+            const sliceAngle = 360 / wheelPrizes.length;
+            const stopAngle = 360 * rotations + prizeIndex * sliceAngle;
+            
+            // Animate the wheel
+            wheelElement.style.transform = `rotate(${stopAngle}deg)`;
+            
+            // After animation completes, award the prize
+            setTimeout(() => {
+                const prize = wheelPrizes[prizeIndex].amount;
+                
+                showNotification(
+                    "Congratulations!",
+                    `<div class="text-center">
+                        <div class="text-3xl font-bold mb-2 coin-animation">
+                            <i class="fas fa-coins text-yellow-500 mr-2"></i> ${prize}
+                        </div>
+                        <p>You won ${prize} coins!</p>
+                    </div>`
+                );
+                
+                // Award coins
+                addCoins(prize, 'Wheel Spin');
+                
+                // Update button and timer
+                updateSpinButton();
+            }, 5000);
+        }
+        
+        // Check if player can spin the wheel
+        function canSpin() {
+            if (!gameState.lastSpinTime) return true;
+            
+            const now = new Date();
+            const lastSpin = new Date(gameState.lastSpinTime);
+            const hoursSinceLastSpin = (now - lastSpin) / (1000 * 60 * 60);
+            
+            return hoursSinceLastSpin >= 1; // Can spin once per hour
+        }
+        
+        // Update the spin button state
+        function updateSpinButton() {
+            if (!canSpin()) {
+                const now = new Date();
+                const lastSpin = new Date(gameState.lastSpinTime);
+                const nextSpinTime = new Date(lastSpin.getTime() + 60 * 60 * 1000); // 1 hour from last spin
+                
+                const minutesLeft = Math.ceil((nextSpinTime - now) / (1000 * 60));
+                
+                spinButton.disabled = true;
+                spinButton.innerHTML = '<i class="fas fa-hourglass-half mr-2"></i> Wait';
+                nextSpinTimeElement.textContent = `Next spin available in ${minutesLeft} minutes`;
+            } else {
+                spinButton.disabled = false;
+                spinButton.innerHTML = '<i class="fas fa-sync-alt mr-2"></i> Spin';
+                nextSpinTimeElement.textContent = 'Spin now to win coins!';
+            }
+        }
+        
+        // Claim daily bonus
+        function claimDailyBonus() {
+            const lastBonus = localStorage.getItem('lastDailyBonus');
+            const now = new Date();
+            
+            if (!lastBonus || new Date(lastBonus).toDateString() !== now.toDateString()) {
+                // Award bonus coins
+                const bonus = 50;
+                addCoins(bonus, 'Daily Bonus');
+                
+                // Update localStorage
+                localStorage.setItem('lastDailyBonus', now.toString());
+                
+                // Update UI
+                updateDailyBonusButton();
+                
+                showNotification(
+                    "Daily Bonus Claimed!",
+                    `<div class="text-center">
+                        <div class="text-3xl font-bold mb-2 coin-animation">
+                            <i class="fas fa-coins text-yellow-500 mr-2"></i> ${bonus}
+                        </div>
+                        <p>You received your daily bonus of ${bonus} coins!</p>
+                        <p class="text-sm text-gray-500 mt-2">Come back tomorrow for another bonus.</p>
+                    </div>`
+                );
+            } else {
+                showNotification(
+                    "Already Claimed",
+                    `<p>You've already claimed your daily bonus today.</p>
+                    <p class="text-sm text-gray-500 mt-2">Come back tomorrow for another bonus!</p>`
+                );
+            }
+        }
+        
+        // Update the daily bonus button state
+        function updateDailyBonusButton() {
+            const lastBonus = localStorage.getItem('lastDailyBonus');
+            const now = new Date();
+            
+            if (!lastBonus || new Date(lastBonus).toDateString() !== now.toDateString()) {
+                claimBonusButton.disabled = false;
+                claimBonusButton.classList.remove('opacity-50');
+                dailyBonusStatusElement.textContent = 'Available now!';
+                dailyBonusStatusElement.className = 'text-sm mt-1 font-medium text-green-600';
+            } else {
+                claimBonusButton.disabled = true;
+                claimBonusButton.classList.add('opacity-50');
+                dailyBonusStatusElement.textContent = 'Already claimed today';
+                dailyBonusStatusElement.className = 'text-sm mt-1 font-medium text-gray-500';
+            }
+        }
+        
+        // Add coins to player's balance
+        function addCoins(amount, source) {
+            gameState.totalCoins += amount;
+            totalCoinsElement.textContent = gameState.totalCoins;
+            
+            // Log earning
+            const earning = {
+                date: new Date().toISOString(),
+                amount: amount,
+                source: source
+            };
+            
+            gameState.earnings.push(earning);
+            updateTransactionHistory();
+            
+            // Check coin collector achievement
+            if (gameState.totalCoins >= 500 && !gameState.achievements.coinCollector) {
+                gameState.achievements.coinCollector = true;
+                updateAchievements();
+                setTimeout(() => {
+                    showNotification(
+                        "Achievement Unlocked!",
+                        '<p>Coin Collector</p><p class="text-sm text-gray-500 mt-1">You collected 500 coins!</p>'
+                    );
+                }, 1000);
+            }
+            
+            // Save game state
+            saveGameState();
+        }
+        
+        // Save profile information
+        function saveProfile() {
+            gameState.profile.name = document.getElementById('profile-name').value;
+            gameState.profile.email = document.getElementById('profile-email').value;
+            gameState.profile.paymentMethod = document.getElementById('profile-payment').value;
+            gameState.profile.paymentDetails = document.getElementById('profile-payment-details').value;
+            
+            saveGameState();
+            
+            showNotification(
+                "Profile Saved",
+                "<p>Your profile information has been saved successfully.</p>"
+            );
+        }
+        
+        // Update withdrawal section
+        function updateWithdrawSection() {
+            const withdrawBalance = document.getElementById('withdraw-balance');
+            withdrawBalance.textContent = gameState.totalCoins;
+            
+            const withdrawProgress = document.getElementById('withdraw-progress');
+            const withdrawProgressText = document.getElementById('withdraw-progress-text');
+            
+            const percentage = Math.min(100, (gameState.totalCoins / 1000) * 100);
+            withdrawProgress.style.width = `${percentage}%`;
+            withdrawProgressText.textContent = `${gameState.totalCoins} / 1000 coins`;
+            
+            updateWithdrawButton();
+        }
+        
+        // Update withdraw button state
+        function updateWithdrawButton() {
+            const termsChecked = document.getElementById('withdraw-terms').checked;
+            const amount = parseInt(document.getElementById('withdraw-amount').value);
+            const submitButton = document.getElementById('submit-withdraw-btn');
+            
+            if (termsChecked && amount >= 1000 && amount <= gameState.totalCoins) {
+                submitButton.disabled = false;
+                submitButton.classList.remove('opacity-50');
+            } else {
+                submitButton.disabled = true;
+                submitButton.classList.add('opacity-50');
+            }
+        }
+        
+        // Submit withdrawal request
+        function submitWithdrawal(event) {
+            event.preventDefault();
+            
+            const amount = parseInt(document.getElementById('withdraw-amount').value);
+            const method = document.getElementById('withdraw-method').value;
+            const details = document.getElementById('withdraw-details').value;
+            
+            if (amount < 1000 || amount > gameState.totalCoins) {
+                showNotification(
+                    "Withdrawal Failed",
+                    "<p>Please ensure your withdrawal amount is at least 1000 coins and not more than your available balance.</p>"
+                );
+                return;
+            }
+            
+            if (!details) {
+                showNotification(
+                    "Withdrawal Failed",
+                    "<p>Please provide your payment details.</p>"
+                );
+                return;
+            }
+            
+            // Process withdrawal
+            gameState.totalCoins -= amount;
+            
+            const withdrawal = {
+                date: new Date().toISOString(),
+                amount: amount,
+                method: method,
+                details: details,
+                status: "Pending"
+            };
+            
+            gameState.withdrawals.push(withdrawal);
+            
+            // Update UI
+            totalCoinsElement.textContent = gameState.totalCoins;
+            updateWithdrawSection();
+            updateTransactionHistory();
+            
+            // Reset form
+            document.getElementById('withdraw-terms').checked = false;
+            document.getElementById('withdraw-amount').value = 1000;
+            document.getElementById('withdraw-details').value = '';
+            
+            // Save game state
+            saveGameState();
+            
+            showNotification(
+                "Withdrawal Requested",
+                `<p>Your withdrawal request for ${amount} coins has been submitted successfully.</p>
+                <p class="text-sm text-gray-500 mt-2">You can track its status in the Transactions tab.</p>`
+            );
+        }
+        
+        // Update transaction history
+        function updateTransactionHistory() {
+            const withdrawalHistory = document.getElementById('withdrawal-history');
+            const earningsHistory = document.getElementById('earnings-history');
+            
+            // Update withdrawals
+            if (gameState.withdrawals.length > 0) {
+                withdrawalHistory.innerHTML = '';
+                
+                gameState.withdrawals.sort((a, b) => new Date(b.date) - new Date(a.date)).forEach(withdrawal => {
+                    const date = new Date(withdrawal.date);
+                    const row = document.createElement('tr');
+                    
+                    row.innerHTML = `
+                        <td class="py-3 px-4">${date.toLocaleDateString()}</td>
+                        <td class="py-3 px-4">${withdrawal.amount} coins</td>
+                        <td class="py-3 px-4">${withdrawal.method}</td>
+                        <td class="py-3 px-4">
+                            <span class="px-2 py-1 rounded text-xs font-medium
+                                ${withdrawal.status === 'Completed' ? 'bg-green-100 text-green-800' : 
+                                withdrawal.status === 'Rejected' ? 'bg-red-100 text-red-800' :
+                                'bg-yellow-100 text-yellow-800'}">
+                                ${withdrawal.status}
+                            </span>
+                        </td>
+                    `;
+                    
+                    withdrawalHistory.appendChild(row);
+                });
+            } else {
+                withdrawalHistory.innerHTML = '<tr><td class="py-4 px-4 text-gray-500" colspan="4">No withdrawals yet</td></tr>';
+            }
+            
+            // Update earnings
+            if (gameState.earnings.length > 0) {
+                earningsHistory.innerHTML = '';
+                
+                gameState.earnings.sort((a, b) => new Date(b.date) - new Date(a.date)).forEach(earning => {
+                    const date = new Date(earning.date);
+                    const row = document.createElement('tr');
+                    
+                    row.innerHTML = `
+                        <td class="py-3 px-4">${date.toLocaleDateString()}</td>
+                        <td class="py-3 px-4">${earning.source}</td>
+                        <td class="py-3 px-4">${earning.amount} coins</td>
+                    `;
+                    
+                    earningsHistory.appendChild(row);
+                });
+            } else {
+                earningsHistory.innerHTML = '<tr><td class="py-4 px-4 text-gray-500" colspan="3">No earnings yet</td></tr>';
+            }
+        }
+        
+        // Update statistics
+        function updateStatistics() {
+            document.getElementById('stats-games').textContent = gameState.gamesPlayed;
+            document.getElementById('stats-high-score').textContent = gameState.highScore;
+            document.getElementById('stats-lines').textContent = gameState.totalLinesCleared;
+            document.getElementById('stats-coins').textContent = gameState.totalCoins;
+            
+            // Load profile data
+            document.getElementById('profile-name').value = gameState.profile.name || '';
+            document.getElementById('profile-email').value = gameState.profile.email || '';
+            document.getElementById('profile-payment').value = gameState.profile.paymentMethod || 'paypal';
+            document.getElementById('profile-payment-details').value = gameState.profile.paymentDetails || '';
+        }
+        
+        // Update achievements
+        function updateAchievements() {
+            const achievementsList = document.getElementById('achievements-list');
+            achievementsList.innerHTML = '';
+            
+            const achievements = [
+                {
+                    id: 'firstGame',
+                    name: 'First Game',
+                    description: 'Play your first game',
+                    progress: gameState.achievements.firstGame ? 1 : 0,
+                    target: 1,
+                    icon: 'fa-star'
+                },
+                {
+                    id: 'scoreMaster',
+                    name: 'Score Master',
+                    description: 'Reach a score of 1000',
+                    progress: Math.min(gameState.highScore, 1000),
+                    target: 1000,
+                    icon: 'fa-trophy'
+                },
+                {
+                    id: 'coinCollector',
+                    name: 'Coin Collector',
+                    description: 'Collect 500 coins',
+                    progress: Math.min(gameState.totalCoins, 500),
+                    target: 500,
+                    icon: 'fa-coins'
+                }
+            ];
+            
+            achievements.forEach(achievement => {
+                const achieved = achievement.progress >= achievement.target;
+                
+                const li = document.createElement('li');
+                li.className = 'bg-white p-3 rounded-lg shadow flex items-center';
+                
+                li.innerHTML = `
+                    <div class="p-2 rounded-full mr-3 ${achieved ? 'bg-yellow-100' : 'bg-gray-200'}">
+                        <i class="fas ${achievement.icon} ${achieved ? 'text-yellow-500' : 'text-gray-400'}"></i>
+                    </div>
+                    <div>
+                        <p class="font-medium">${achievement.name}</p>
+                        <p class="text-xs text-gray-500">${achievement.description}</p>
+                    </div>
+                    <div class="ml-auto">
+                        <span class="${achieved ? 'bg-green-100 text-green-800' : 'bg-gray-200 text-gray-500'} text-xs px-2 py-1 rounded">
+                            ${achievement.progress}/${achievement.target}
+                        </span>
+                    </div>
+                `;
+                
+                achievementsList.appendChild(li);
+            });
+        }
+        
+        // Check achievements
+        function checkAchievements() {
+            if (gameState.score >= 1000 && !gameState.achievements.scoreMaster) {
+                gameState.achievements.scoreMaster = true;
+                updateAchievements();
+                setTimeout(() => {
+                    showNotification(
+                        "Achievement Unlocked!",
+                        '<p>Score Master</p><p class="text-sm text-gray-500 mt-1">You reached a score of 1000!</p>'
+                    );
+                }, 1000);
+            }
+        }
+        
+        // Save game state to localStorage
+        function saveGameState() {
+            localStorage.setItem('blockPuzzleGameState', JSON.stringify(gameState));
+        }
+        
+        // Load game state from localStorage
+        function loadGameState() {
+            const savedState = localStorage.getItem('blockPuzzleGameState');
+            if (savedState) {
+                const parsedState = JSON.parse(savedState);
+                Object.assign(gameState, parsedState);
+                
+                // Update UI elements
+                scoreElement.textContent = gameState.score;
+                linesClearedElement.textContent = gameState.linesCleared;
+                totalCoinsElement.textContent = gameState.totalCoins;
+            }
+        }
+        
+        // Set up a timer to update the spin button state
+        setInterval(() => {
+            updateSpinButton();
+        }, 60000); // Update every minute
+        
+        // Initialize the game
+        initGame();
+    </script>
+</body>
+</html>
